@@ -1,2 +1,0 @@
-username: khoahoang000
-password: Thienhoa1
